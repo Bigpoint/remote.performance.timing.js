@@ -15,7 +15,7 @@ You must define the tracking pixel, so that the script knows what to call.
 ## Download ##
 
   * [Development version](https://raw.github.com/Bigpoint/remote.performance.timing.js/master/lib/remote.performance.timing.js) *Uncompressed*
-  * [Production version](https://raw.github.com/Bigpoint/remote.performance.timing.js/master/dist/remote.performance.timing.min.js) *Minified*
+  * [Production version](https://raw.github.com/Bigpoint/remote.performance.timing.js/master/dist/remote.performance.timing.min.js) *Minified w/o console logging*
 
 Support
 ===========
@@ -36,6 +36,10 @@ Poem
 'Ist dies schon Tollheit,
      hat es doch Methode' - William Shakespeare (1564-1616), engl. Dramatiker
 
+Contribute
+==========
+
+[Tutorial](http://kbroman.github.io/github_tutorial/pages/fork.html)
 
 License and Author
 ==================
