@@ -14,8 +14,8 @@ You must define the tracking pixel, so that the script knows what to call.
 
 ## Download ##
 
-  * [Development version](https://raw.github.com/bigpoint/remote.performance.timing/master/lib/remote.performance.timing.js) *Uncompressed*
-  * [Production version](https://github.com/bigpoint/remote.performance.timing/raw/master/dist/remote.performance.timing.min.js) *Minified*
+  * [Development version](https://raw.github.com/Bigpoint/remote.performance.timing.js/master/lib/remote.performance.timing.js) *Uncompressed*
+  * [Production version](https://raw.github.com/Bigpoint/remote.performance.timing.js/master/dist/remote.performance.timing.min.js) *Minified*
 
 Support
 ===========
