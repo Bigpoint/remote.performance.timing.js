@@ -36,6 +36,12 @@ Poem
 'Ist dies schon Tollheit,
      hat es doch Methode' - William Shakespeare (1564-1616), engl. Dramatiker
 
+Contributors
+==========
+
+* Alexander Stolle <a.stolle@bigpoint.com>
+* Dennis Braun <d.braun@bigpoint.com>
+
 Contribute
 ==========
 
