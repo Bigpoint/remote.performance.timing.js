@@ -39,8 +39,8 @@ Poem
 Contributors
 ==========
 
-* Alexander Stolle <a.stolle@bigpoint.com>
-* Dennis Braun <d.braun@bigpoint.com>
+* [Alexander Stolle](https://github.com/astolle)
+* [Dennis Braun](https://github.com/DBProductions)
 
 Contribute
 ==========
@@ -50,7 +50,7 @@ Contribute
 License and Author
 ==================
 
-Author:: Alexander Jäger <a.jaeger@bigpoint.com>
+Author:: [Alexander Jäger](https://github.com/lxhunter)
 
 Copyright 2014, Bigpoint GmbH
 
