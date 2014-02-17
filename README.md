@@ -1,3 +1,5 @@
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+
 Description
 ===========
 `remote.performance.timing` is an anonymous javascript function which utilizes the Navigation Timing API and send the results to a tracking pixel.
